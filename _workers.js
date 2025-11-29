@@ -107,7 +107,7 @@ export default {
     const html = `<!DOCTYPE html>
   <html lang="zh-CN">
   <head>
-  <link rel="icon" href="https://www.cloudflare.com/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="https://raw.githubusercontent.com/alienwaregf/personal-use/main/image/Favicon/GF.svg" type="image/svg+xml">
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Cloudflare IP 收集器</title>
