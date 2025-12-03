@@ -1106,7 +1106,7 @@ async function serveHTML(env) {
             
             <div class="loading" id="loading">
                 <div class="spinner"></div>
-                <p>正在从多个来源收集 IP 地址，请稍候...</p>
+                <p>正在从多个来源收集 IP 地址并测速，请稍候...</p>
             </div>
             
             <div class="result" id="result"></div>
